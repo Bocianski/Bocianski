@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+### I think it's place to tell who you are dealing with.
+    - church boy
+    - student of IT
+    - RPG nerd
+    - Warhammer enjoyer
+    - man who you'd love to talk with
+
 
 <!--
 **Bocianski/Bocianski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
